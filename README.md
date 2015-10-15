@@ -10,3 +10,7 @@ This application is developed in Eclipse using Java Dynamic Web Application
 
 Check the hibernate.cfg.xml for Database Connection details. 
 (Change db dilact and hibernate properties respectively according to your need)
+
+PLEASE NOTE: I am working on the page styling for index.html file. The basic functionality can be tested/check on main.jsp file.
+
+Thank You
